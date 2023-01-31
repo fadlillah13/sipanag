@@ -1,0 +1,14 @@
+Admin
+Email : admin@sipanag.go.id
+Password : admin12345
+
+Warga
+Email : gustiani@sipanag.go.id
+Password : gustiani12345
+
+NIK Sample
+1304035208980001
+1304144508000001
+1304022807970002
+1604095407010001
+1304101912940002
